@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Gavin and I am a sophmore in high school. I love learning about Python and Data Science and working on projects. I have a decent foundation of knowldege regaring Machine Learning, but am currently learning so much more about the topic, like Deep Learning. I am also learning about Data Science essentials like Pandas and NumPy, learning how to handle my data more effectively. Currently, aside from learning, I am focused on developing projects, those of which include passion projects as well as school competition projects.
+My name is Gavin and I am a sophmore in high school. I love learning about Python and Data Science and working on projects. I have a decent foundation of knowldege regaring Machine Learning, but am currently learning so much more about the topic, like Deep Learning. I am also learning about Data Science essentials like Pandas and NumPy, learning how to handle my data more effectively. Currently, aside from learning, I am focused on developing projects, those of which include passion projects as well as school competition projects. After developing a better understanding of Deep Learning and working on more projects, I plan to investigate the specifics of topics like Computer Vision and Natural Language Processing, and independently publish papers.
 
 You can reach me through my LinkedIn page. 
 <!--
