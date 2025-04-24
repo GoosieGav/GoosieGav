@@ -1,19 +1,25 @@
-## Hi there 👋
+# Hey, I'm Gavin! 👋
 
-My name is Gavin and I am a sophmore in high school. I love learning about Python and Data Science and working on projects. I have a decent foundation of knowldege regaring Machine Learning, but am currently learning so much more about the topic, like Deep Learning. I am also learning about Data Science essentials like Pandas and NumPy, learning how to handle my data more effectively. Currently, aside from learning, I am focused on developing projects, those of which include passion projects as well as school competition projects. After developing a better understanding of Deep Learning and working on more projects, I plan to investigate the specifics of topics like Computer Vision and Natural Language Processing, and independently publish papers.
+I'm a sophomore in high school with a deep passion for **Python**, **Data Science**, and developing exciting projects that push my boundaries. I’ve built a solid foundation in **Machine Learning**, and now I’m diving into the fascinating world of **Deep Learning**. I’m also getting hands-on with essential Data Science tools like **Pandas** and **NumPy** to handle data more efficiently.
 
-You can reach me through my LinkedIn page. 
-<!--
-**GoosieGav/GoosieGav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Projects I’ve Developed
 
-Here are some ideas to get you started:
+- **[Ensemble Learning for Malware Detection](#)**: I created an ensemble learning model combining multiple algorithms to boost accuracy and robustness in malware detection.
+  
+- **[Pest Detection CNN](#)**: Using a Convolutional Neural Network (CNN), I developed a system to identify pests and suggest sustainable treatment options.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[3D Dystopian Game with Three.js](#)**: I built a dark, immersive 3D dystopian game using **Three.js**, where players explore a futuristic world full of challenges.
+
+### What’s Next?
+
+- I’m excited to **combine my love for soccer** with **Deep Learning**. I plan to explore how machine learning can analyze player performance, strategies, and other aspects of the game.
+  
+- I’m diving deeper into **Computer Vision** and **Natural Language Processing**, and I aim to **publish independent research papers** as I continue my studies.
+
+### Let’s Connect! 🤝
+
+Feel free to reach out through my [LinkedIn](#) to chat, collaborate, or learn more about my projects.
+
+---
+
+Let’s code and learn together! 💻✨
