@@ -4,11 +4,11 @@ I'm a sophomore in high school with a deep passion for **Python**, **Data Scienc
 
 ### 🚀 Projects I’ve Developed
 
-- **[Ensemble Learning for Malware Detection](#)**: I created an ensemble learning model combining multiple algorithms to boost accuracy and robustness in malware detection.
+- **Ensemble Learning for Malware Detection**: I created an ensemble learning model combining multiple algorithms to boost accuracy and robustness in malware detection.
   
-- **[Pest Detection CNN](#)**: Using a Convolutional Neural Network (CNN), I developed a system to identify pests and suggest sustainable treatment options.
+- **Pest Detection CNN**: Using a Convolutional Neural Network (CNN), I developed a system to identify pests and suggest sustainable treatment options.
 
-- **[3D Dystopian Game with Three.js](#)**: I built a dark, immersive 3D dystopian game using **Three.js**, where players explore a futuristic world full of challenges.
+- **3D Dystopian Game with Three.js**: I built a dark, immersive 3D dystopian game using **Three.js**, where players explore a futuristic world full of challenges.
 
 ### What’s Next?
 
@@ -18,7 +18,7 @@ I'm a sophomore in high school with a deep passion for **Python**, **Data Scienc
 
 ### Let’s Connect! 🤝
 
-Feel free to reach out through my [LinkedIn](#) to chat, collaborate, or learn more about my projects.
+Feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/goosiegav/) to chat, collaborate, or learn more about my projects.
 
 ---
 
