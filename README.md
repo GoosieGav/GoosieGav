@@ -1,4 +1,4 @@
-# Hey, I'm Gavin! 👋
+# Hey, I'm Gavin! 
 
 I'm a sophomore in high school with a deep passion for **Python**, **Data Science**, and developing exciting projects that push my boundaries. I’ve built a solid foundation in **Machine Learning**, and now I’m diving into the fascinating world of **Deep Learning**. I’m also getting hands-on with essential Data Science tools like **Pandas** and **NumPy** to handle data more efficiently.
 
@@ -16,7 +16,7 @@ I'm a sophomore in high school with a deep passion for **Python**, **Data Scienc
   
 - I’m diving deeper into **Computer Vision** and **Natural Language Processing**, and I aim to **publish independent research papers** as I continue my studies.
 
-### Let’s Connect! 🤝
+### Let’s Connect! 
 
 Feel free to reach out through my [LinkedIn](https://www.linkedin.com/in/goosiegav/) to chat, collaborate, or learn more about my projects.
 
