@@ -6,7 +6,7 @@ I'm a sophomore in high school with a deep passion for **Python**, **Data Scienc
 
 - **Ensemble Learning for Malware Detection**: I created an ensemble learning model combining multiple algorithms to boost accuracy and robustness in malware detection.
   
-- **Pest Detection CNN**: Using a Convolutional Neural Network (CNN), I developed a system to identify pests and suggest sustainable treatment options.
+- **Pest Detection CNN**(https://github.com/GoosieGav/PestHub): Using a Convolutional Neural Network (CNN), I developed a system to identify pests and suggest sustainable treatment options.
 
 - **3D Dystopian Game with Three.js**: I helped build a dark, immersive 3D dystopian game using **Three.js**, where players explore a futuristic world full of challenges.
 
