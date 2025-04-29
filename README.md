@@ -4,7 +4,7 @@ I'm a sophomore in high school with a deep passion for **Python**, **Data Scienc
 
 ### 🚀 Projects I’ve Developed
 
-- [**Ensemble Learning for Malware Detection*][(https://github.com/GoosieGav/Ensemble-Learning-for-Malware-Classification): I created an ensemble learning model combining multiple algorithms to boost accuracy and robustness in malware detection. (Published paper coming soon)
+- [**Ensemble Learning for Malware Detection**][(https://github.com/GoosieGav/Ensemble-Learning-for-Malware-Classification): I created an ensemble learning model combining multiple algorithms to boost accuracy and robustness in malware detection. (Published paper coming soon)
   
 - [**PestHUB**](https://github.com/GoosieGav/PestHub): Using a Convolutional Neural Network (CNN), I developed a system to identify pests and suggest sustainable treatment options. 
 
