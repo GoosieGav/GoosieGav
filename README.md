@@ -1,8 +1,8 @@
 # Hey, I'm Gavin! 
 
-I'm a sophomore in high school with a deep passion for **Python**, **Data Science**, and developing exciting projects that push my boundaries. I’ve built a solid foundation in **Machine Learning**, and now I’m diving into the fascinating world of **Deep Learning**. I’m also getting hands-on with essential Data Science tools like **Pandas** and **NumPy** to handle data more efficiently.
+I'm a Junior in high school with a deep passion for **Python**, **Data Science**, and developing exciting projects that push my boundaries. I’ve built a solid foundation in **Machine Learning**, and now I’m diving into the fascinating world of **Deep Learning**. I’m also getting hands-on with essential Data Science tools like **Pandas** and **NumPy** to handle data more efficiently.
 
-### 🚀 Projects I’ve Developed
+### Projects I’ve Developed
 
 - [**Ensemble Learning for Malware Detection**](https://github.com/GoosieGav/Ensemble-Learning-for-Malware-Classification): I created an ensemble learning model combining multiple algorithms to boost accuracy and robustness in malware detection. (Research done with professors)
   
